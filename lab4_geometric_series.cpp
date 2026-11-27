@@ -62,3 +62,5 @@ int main() {
     cout << "Сума за допомогою do-while = " << sumaDoWhile << endl;
 return 0;
 }
+
+// The infinite series converges to 1/3.
